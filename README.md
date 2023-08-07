@@ -1,5 +1,11 @@
 # Larazi CMS Readme
 
+Full Document: https://zicms.pro/doc
+Website: https://zicms.pro
+Default Theme : https://default.theme.zicms.pro/
+Penguin Theme: https://penguin.theme.zicms.pro/
+....
+
 Larazi CMS is a feature-rich content management system (CMS) built on the renowned Laravel framework. This powerful combination offers advanced functionalities, making it an excellent choice for developers seeking an efficient CMS solution.
 
 ## Features
