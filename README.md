@@ -1,4 +1,4 @@
-# Larazi CMS Readme
+# Larazi CMS 
 
 - Full Document: https://zicms.pro/doc
 - Website: https://zicms.pro
